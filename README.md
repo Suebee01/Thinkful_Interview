@@ -41,4 +41,4 @@ Overall Assessment:
 - Susan will be a good fit for the Web Developer position based on her knowledge of the application and the understanding of the client needs to provide the tools necessary to perform their job duties.
 
 Recommendation:
-- Recommend Susan should proceed to the new with the team.
+- Recommend Susan should proceed to the new role within the team.
