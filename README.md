@@ -1,7 +1,7 @@
 # Thinkful_Interview
 Mock Interview for Thinkful Assignment
 
-Candidate Name: Susan Beadle
+Candidate Name: Susan
 Interview Date: 10/27/2023
 Position Applied For: Web Developer
 
